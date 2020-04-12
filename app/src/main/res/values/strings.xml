@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="etanol">Etanol</string>
+    <string name="pre_o_por_litro">Preço por Litro</string>
+    <string name="o_mais_econ_nico_sera">O mais econônico sera:</string>
+    <string name="preco_por_litro">Preço por litro</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor">Resultado</string>
+</resources>
